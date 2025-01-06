@@ -33,4 +33,4 @@ I'm in my fourth year at MacEwan University as a computer science major, current
 - I'm open to collaborating on interesting projects and always eager to learn something new!
 
 ---
-* Nicely done. *
+*Nicely done.*
