@@ -29,7 +29,8 @@ I'm in my fourth year at MacEwan University as a computer science major, current
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jack_Derksen-blue?style=flat&logo=LinkedIn)](https://linkedin.com/in/jack-derksen-6292a1261)
 
 ### ⚡ Other Notes
-- I also enjoy snowboarding, video games (both modern and retro), and ...
+- I also enjoy snowboarding, video games (both modern and retro), building things, and tinkering.
+- I'm open to collaborating on interesting projects and always eager to learn something new!
 
 ---
-*💡 Open to collaborating on interesting projects and always eager to learn something new!*
+* Nicely done. *
