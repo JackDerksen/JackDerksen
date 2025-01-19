@@ -1,4 +1,4 @@
-## Hey there, I'm Jack, a computer science student and aspiring software engineer
+## Hey there! I'm Jack, a computer science student and aspiring software engineer
 
 ### About Me
 I'm in my fourth year at MacEwan University as a computer science major, currently seeking software engineering internships while building my portfolio and expanding my knowledge. I obsess over details and believe in minimalist results achieved through maximum effort.
