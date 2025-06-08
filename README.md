@@ -1,10 +1,10 @@
 ## Hey there! I'm Jack, a computer science student and aspiring software engineer
 
 ### About Me
-I'm in my fourth undergraduate year at MacEwan University as a computer science major, currently building my portfolio and expanding my knowledge. I obsess over details and believe in minimalist results achieved through maximum effort.
+I'm in my final undergraduate year at MacEwan University as a computer science student, currently building out my portfolio and expanding my knowledge. I obsess over details and believe in minimalist results achieved through maximum effort.
 
 ### 💻 Preferred Languages
-[![My Skills](https://skillicons.dev/icons?i=rust,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,typescript,python)](https://skillicons.dev)
 
 
 ### 🌐 Connect with Me
