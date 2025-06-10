@@ -10,8 +10,6 @@ I'm in my final undergraduate year at MacEwan University as a computer science s
 ### 🌐 Connect with Me
 [LinkedIn](https://linkedin.com/in/jack-derksen-6292a1261)
 
-[viis.dev](https://viis.dev/)
-
 
 ---
 *Nicely done.*
