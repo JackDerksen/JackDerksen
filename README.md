@@ -1,7 +1,7 @@
-## Hey there! I'm Jack, a computer science student and aspiring software engineer
+## Hey there! I'm Jack, a Canadian computer science student and aspiring software engineer
 
 ### About Me
-I'm in my final undergraduate year at MacEwan University as a computer science student, currently building out my portfolio and expanding my knowledge. I obsess over details and believe in clean results achieved through maximum effort.
+I'm in the final undergraduate year of my computer science degree at MacEwan University, currently learning and building out my portfolio.
 
 ### 💻 Preferred Languages
 [![My Skills](https://skillicons.dev/icons?i=rust,c,typescript,python)](https://skillicons.dev)
