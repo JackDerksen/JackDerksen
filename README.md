@@ -1,15 +1,18 @@
-## Hey there! I'm Jack, a Canadian computer science student and aspiring software engineer
+# Hey, I'm Jack
 
-### About Me
-I'm in the final undergraduate year of my computer science degree at MacEwan University, currently learning and building out my portfolio.
+I'm a Canadian computer science student and aspiring software engineer in my final undergraduate year at MacEwan University.
 
-### Preferred Languages
-[![My Skills](https://skillicons.dev/icons?i=rust,c,typescript,python)](https://skillicons.dev)
-
-
-### Connect with Me
-[LinkedIn](https://linkedin.com/in/jack-derksen-6292a1261)
-
+I care deeply about the quality of the software I build, and I value clean, minimalist products created with a strong attention to detail. I enjoy building practical software and developer tooling, especially working close to the metal when it makes sense. I aim for work that’s *nicely done* — functional, well-crafted, and enjoyable to use.
 
 ---
-*Nicely done.*
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,go,c,typescript&theme=light" alt="Languages" />
+</p>
+
+
+<p align="center">
+  <a href="https://viis.dev"><strong>Portfolio</strong></a> • 
+  <a href="https://linkedin.com/in/jack-derksen-6292a1261"><strong>LinkedIn</strong></a> • 
+  <a href="mailto:hello@viis.dev"><strong>Email</strong></a>
+</p>
