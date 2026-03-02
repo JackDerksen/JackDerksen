@@ -7,7 +7,7 @@ I care deeply about the quality of the software I build, and I value clean, mini
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,c,typescript&theme=light" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=rust,go,c,typescript,python&theme=dark" alt="Languages" />
 </p>
 
 
