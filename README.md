@@ -1,8 +1,8 @@
 # Hey, I'm Jack
 
-I'm a Canadian computer science student and aspiring software engineer in my final undergraduate year at MacEwan University.
+I'm an aspiring Canadian software engineer who just completed his computer science degree at MacEwan University.
 
-I care deeply about the quality of the software I build, and I value clean, minimalist products created with a strong attention to detail. I enjoy building practical software and developer tooling, especially working close to the metal when it makes sense. I aim for work that’s *nicely done* — functional, well-crafted, and enjoyable to use.
+I care deeply about the quality of the software I build, and I value clean, minimalist products created with a strong attention to detail. I enjoy building practical software and developer tooling, especially working close to the metal when it makes sense. I aim for work that’s *nicely done*: functional, well-crafted, and enjoyable to use.
 
 ---
 
